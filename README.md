@@ -74,7 +74,7 @@ You can use Jupyter Notebook or VS Code:
   - Open `Agent exploration.ipynb` and run all cells
 
 ---
-By the end of execution:
-- The agent explores multiple valid moves using its knowledge base
-- It successfully adds both Visited and NextToWall facts
-- If unable to reach the goal, it identifies being stuck based on logical reasoning — mimicking real-world AI limitations
+
+---
+
+**Authored by Emmanuel Douglas**
